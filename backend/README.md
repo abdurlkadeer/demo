@@ -40,7 +40,7 @@ Obtain the following values from the developer portal:
 
 **Session secret**: Generate a random string (e.g 64 alphanumeric characters).
 
-**API key**: obtained by tapping the "Get API Key" button
+**API key**:50e8f827d0c8cb2d18ad0f5581d248be9925ad24cf7d4a1be56ba53d170c3e080c72d93b92a69395bbfe0b1832fd805b4d45dec163d9a2915cf7f1253a9cea7e 
 
 ![](./img/api_key.png)
 
